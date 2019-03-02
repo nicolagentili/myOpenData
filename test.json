@@ -2,7 +2,11 @@
  "name": "IRST",
  "children": [
       {
-       "name": "Physicians","size":"1"
+       "name": "Physicians","size":"60",
+       "name": "Physiscs","size":"20",
+       "name": "Nurses","size":"65",
+       "name": "Technicians","size":"40",
+       "name": "Others","size":"60"
       }
   ]
 }
